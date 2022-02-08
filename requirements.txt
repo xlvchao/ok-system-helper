@@ -1,0 +1,6 @@
+APScheduler==3.6.1
+Flask==1.1.1
+gevent==21.1.2
+psutil==5.6.3
+PyMySQL==0.9.3
+redis_py_cluster==2.1.3
