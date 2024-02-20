@@ -155,7 +155,7 @@ print(collector.net())
 
 在公众号后台回复“**加群**”，即可加入「**南山有一郎**」交流群！
 
-![mp_qrcode](https://s1.ax1x.com/2022/06/26/jkx8Ds.jpg)
+![mp_qrcode](https://s11.ax1x.com/2024/02/21/pFtmfPg.jpg)
 
 
 
